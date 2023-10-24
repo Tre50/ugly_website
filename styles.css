@@ -1,0 +1,50 @@
+*{
+    
+    background-image: url("uglypic.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:60%;
+    max-inline-size: 30vh;
+    margin-right: auto;
+    flex-direction: row;
+    border-style: double;
+    border-spacing: 33vh;
+
+    
+}
+
+
+header{ 
+    
+    color: peru;
+    font-family:sans-serif;
+    font-size: 44rem;
+    border-style: double;
+    display: flexbox;
+    display: flex;
+}
+h1{
+    font-size: 3px;
+
+    
+}
+p{
+    font-size: 100px;
+    border-color: orange;
+}
+
+body{
+    font-size: 66rem;
+    border: 45vh;
+    margin-right: 50vh;
+    
+
+
+}
+h3{
+    background-image: url("uglypic.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-color: blueviolet;
+
+}
